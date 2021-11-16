@@ -8,5 +8,5 @@
 <main>
 	<h1>{title}</h1>
 	<p> {contents} </p>
-	<img {src}>
+	<img {src} alt="doggo">
 </main>
