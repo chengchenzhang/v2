@@ -1,12 +1,12 @@
 import App from './App.svelte';
 import Entry from './Entry.svelte';
 
-const title = 'TFT World';
+const title = 'TFT for you and me';
 const c1 = new Entry({
 	target: document.body,
 	props: {
 		title: title,
-		contents: 'yes',
+		contents: 'but mostly me',
 		src: './images/colored_head.png'
 	}
 })
